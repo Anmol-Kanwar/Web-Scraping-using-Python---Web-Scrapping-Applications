@@ -1,0 +1,2 @@
+# Web-Scraping-using-Python---Web-Scrapping-Applications
+Utilized Python for Web-Scraping Applications as a Winter Project. Constructed an agent which can extract, parse, download and organize useful information from the web automatically. Below are the few contents of the files in this repository. 1. News Article Summary.py  2. Parsing a webpage to create WordCloud.py (Generating Word Cloud using beautifulsoup library)  3. Weather Forecast.py (stored data in pandas dataframe
