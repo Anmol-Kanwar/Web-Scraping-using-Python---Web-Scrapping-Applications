@@ -47,9 +47,3 @@ plt.imshow(cloud)
 plt.title('Power Words for Resume')
 plt.axis('off')
 plt.show()
-
-
-# In[ ]:
-
-
-
